@@ -12,14 +12,11 @@ Lista de tarefas:
 + Gráficos:
 
 <p>Receita Acumulada por Grupo;</p>
-
-Tamanho Médio Acumulado do Pedido por Grupo;
-
-Diferença Relativa no Tamanho Médio do Pedido;
+<p>Tamanho Médio Acumulado do Pedido por Grupo;</p>
+<p>Diferença Relativa no Tamanho Médio do Pedido;</p>
 
 Taxa de Conversão Diária;
-
-Diferença Relativa na Conversão Cumulativa.
+<p>Diferença Relativa na Conversão Cumulativa.</p>
 
 + Estatísticas:
 Percentis de Pedidos por Usuário;
