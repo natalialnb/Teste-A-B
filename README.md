@@ -11,7 +11,7 @@ Lista de tarefas:
 
 + Gráficos:
 
-Receita Acumulada por Grupo;
+<p>Receita Acumulada por Grupo;</p>
 
 Tamanho Médio Acumulado do Pedido por Grupo;
 
